@@ -1,0 +1,3 @@
+[submodule "Demo-JZ"]
+	path = Demo-JZ
+	url = git@github.com:SpilledJavaCoffee/Demo-JZ.git
